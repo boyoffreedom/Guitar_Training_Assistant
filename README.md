@@ -5,6 +5,6 @@
 
 Python还需要一些依赖库(主要是scipy)，安装完python之后启动命令行，输入pip install scipy即可，有能力的自己打一下~
 
-<a href="https://github.com/boyoffreedom/Guitar_Training_Assistant/blob/master/finger_board_position_test.py">指板位置对应音名测试</a>   ：计算机提问某弦某品，回答音名
-<a href="https://github.com/boyoffreedom/Guitar_Training_Assistant/blob/master/fingerboard_training.py">音名对应指板位置</a>   ：计算机提问某弦上的某音，通过弹奏该弦上的音自动判别，需要打scipy库
-<a href="https://github.com/boyoffreedom/Guitar_Training_Assistant/blob/master/scales_table.py">音阶生成</a>    ：采用映射的方式，生成音阶表
+<a href="https://github.com/boyoffreedom/Guitar_Training_Assistant/blob/master/finger_board_position_test.py">指板位置对应音名测试</a>   ：计算机提问某弦某品，回答音名  
+<a href="https://github.com/boyoffreedom/Guitar_Training_Assistant/blob/master/fingerboard_training.py">音名对应指板位置</a>   ：计算机提问某弦上的某音，通过弹奏该弦上的音自动判别，需要打scipy库  
+<a href="https://github.com/boyoffreedom/Guitar_Training_Assistant/blob/master/scales_table.py">音阶生成</a>    ：采用映射的方式，生成音阶表  
